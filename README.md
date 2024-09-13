@@ -1,2 +1,10 @@
 # MachineLearning
-Football_Players_Regression_Classification_Models
+
+1- Exploring DataSet
+
+2- Data Visualization
+
+3- Data Preprocessing
+
+4- Applying Some Regression Models
+
